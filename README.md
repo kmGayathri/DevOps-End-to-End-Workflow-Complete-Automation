@@ -28,9 +28,14 @@ This repository contains a project where I’ve managed to create a DevOps envir
 - Maven
 - NGINX 
 - SonarQube
+- Docker 
 - Jfrog Artifactory 
 - Kubernetes 
 - Prometheus & Grafana
+
+### Extra
+- VS Code 
+- Mobaxterm 
 
 
 
