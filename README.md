@@ -14,7 +14,7 @@ This repository contains a project where I’ve managed to create a DevOps envir
 6. To validate our code quality, I am going to use SonarQube. SonarQube helps us to do the analysis of our code and if there are any code standards are deviated then it will intimate to our Continuous Integration System.
 7. Whatever I am going to build during this phase will be stored in the Jfrog Artifactory.
 8. Our deployment environment is Kubernetes. I am going to use Kubernetes to deploy our microservice-based applications and run them.
-9. While running i need to monitor our application weather those are performing well or not, is there anny issues for that i use Prometheus Terraform c& Grafana. 
+9. While running i need to monitor our application weather those are performing well or not, is there any issues for that i use Prometheus & Grafana. 
 10. I set up all this environment on AWS because we need servers.
 11. Most of the infrastructure is provided by Terraform. I will write Terraform scripts to provision our infrastructure on the AWS Cloud.
 12. Once I have set up EC2 instances, I want to configure our systems, so I use Ansible.
@@ -31,11 +31,12 @@ This repository contains a project where I’ve managed to create a DevOps envir
 - Docker 
 - Jfrog Artifactory 
 - Kubernetes 
+- Helm
 - Prometheus & Grafana
 
-### Extra
-- VS Code 
-- Mobaxterm 
+#### Others
+- Visual Studio Code 
+- MobaXterm
 
 
 
